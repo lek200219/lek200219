@@ -7,4 +7,9 @@ Excel and SQL analysis
 power Bi dashboard 
 Smart PLS
 
+##sample projects
+Nigerian population analysis 
+sales dashboard in power bi 
+
+
 ##Contact Me @ lamidoesther@gmail.com
